@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/reaction-timer/static/css/main.121ba698.css",
-    "main.js": "/reaction-timer/static/js/main.948ac1e2.js",
+    "main.css": "/reaction-timer/static/css/main.4069a102.css",
+    "main.js": "/reaction-timer/static/js/main.c02b48c9.js",
     "static/js/787.98f08bec.chunk.js": "/reaction-timer/static/js/787.98f08bec.chunk.js",
     "static/media/click.svg": "/reaction-timer/static/media/click.ab3f18810b0a720ddf5b94d2d42f3296.svg",
     "static/media/time.svg": "/reaction-timer/static/media/time.ee8c7e71d78528782de4567a91457c8d.svg",
+    "static/media/previous.svg": "/reaction-timer/static/media/previous.45c989296b641d9fc5fc70ad34e6a1e5.svg",
     "static/media/repeat.svg": "/reaction-timer/static/media/repeat.604be1878d5f5194d1f014f8e76e7194.svg",
     "static/media/wait.svg": "/reaction-timer/static/media/wait.cdc7e68f3d0e265989c5a56518a3386b.svg",
     "index.html": "/reaction-timer/index.html",
+    "static/media/average.svg": "/reaction-timer/static/media/average.d2e0e6801cbe51a85445c617ba126eb1.svg",
+    "static/media/best.svg": "/reaction-timer/static/media/best.95caec6948ad09f86c178996cb95707f.svg",
     "static/media/expand.svg": "/reaction-timer/static/media/expand.7a9af2f980ad6c905a7ba7236e0393af.svg",
-    "main.121ba698.css.map": "/reaction-timer/static/css/main.121ba698.css.map",
-    "main.948ac1e2.js.map": "/reaction-timer/static/js/main.948ac1e2.js.map",
+    "main.4069a102.css.map": "/reaction-timer/static/css/main.4069a102.css.map",
+    "main.c02b48c9.js.map": "/reaction-timer/static/js/main.c02b48c9.js.map",
     "787.98f08bec.chunk.js.map": "/reaction-timer/static/js/787.98f08bec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.121ba698.css",
-    "static/js/main.948ac1e2.js"
+    "static/css/main.4069a102.css",
+    "static/js/main.c02b48c9.js"
   ]
 }
