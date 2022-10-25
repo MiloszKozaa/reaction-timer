@@ -9,8 +9,6 @@
   scroll-behavior: smooth;
 }
 
-
-
 .wrapper_mobile {
   flex-direction: column;
   gap: 120px;
@@ -47,6 +45,13 @@
   align-items: center;
   justify-content: center;
   gap: 40px;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
 }
 
 .value {

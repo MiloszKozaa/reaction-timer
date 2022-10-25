@@ -1,9 +1,11 @@
 import { SceneTypes } from '../types/App.types';
 import expand_icon from '../svg/expand.svg';
-import wait_icon from '../svg/wait.svg';
-import time_icon from '../svg/time.svg';
-import repeat_icon from '../svg/repeat.svg';
+import previous_icon from '../svg/previous.svg';
+import average_icon from '../svg/average.svg';
+import best_icon from '../svg/best.svg';
 import './Scene.css';
+
+// TRY SLICE ARRAY TO MAX 5 ELEMENTS
 
 const Scene = ({ icon, text, boldText, click, storage, best }: SceneTypes) => {
   const previous = storage ? storage.filter(val => val !== 0) : [];
@@ -45,15 +47,22 @@ const Scene = ({ icon, text, boldText, click, storage, best }: SceneTypes) => {
       {previous.length !== 0 && (
         <div id='info'>
           <div className='detail'>
-            Best
+            <div className='title'>
+              <img src={best_icon} /> Best
+            </div>
             <div className='value'>{best} ms</div>
           </div>
           <div className='detail'>
-            Average
+            <div className='title'>
+              <img src={average_icon} /> Average
+            </div>
             <div className='value'>{averageReaction(previous)} ms</div>
           </div>
           <div className='detail'>
-            Previous
+            <div className='title'>
+              <img src={previous_icon} /> Previous
+            </div>
+
             <div className='list'>
               {previous.map(res => {
                 return <div key={res}>{res} ms</div>;
