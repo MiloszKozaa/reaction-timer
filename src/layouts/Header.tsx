@@ -5,8 +5,8 @@ const Header = () => {
   return (
     <div className='headerWrapper'>
       <div className='headerLogo'>
-        <Link link='https://github.com/MiloszKozaa/todo-app' linkTitle='tasks' />
-        app
+        <Link link='https://github.com/MiloszKozaa/reaction-timer' linkTitle='reaction' />
+        timer
       </div>
       <div className='headerMade'>
         Site made by
