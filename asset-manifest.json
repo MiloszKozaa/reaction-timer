@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/reaction-timer/static/css/main.073c9b0a.css",
-    "main.js": "/reaction-timer/static/js/main.7479dd1c.js",
+    "main.css": "/reaction-timer/static/css/main.121ba698.css",
+    "main.js": "/reaction-timer/static/js/main.948ac1e2.js",
     "static/js/787.98f08bec.chunk.js": "/reaction-timer/static/js/787.98f08bec.chunk.js",
-    "static/media/logo.svg": "/reaction-timer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/click.svg": "/reaction-timer/static/media/click.ab3f18810b0a720ddf5b94d2d42f3296.svg",
+    "static/media/time.svg": "/reaction-timer/static/media/time.ee8c7e71d78528782de4567a91457c8d.svg",
+    "static/media/repeat.svg": "/reaction-timer/static/media/repeat.604be1878d5f5194d1f014f8e76e7194.svg",
+    "static/media/wait.svg": "/reaction-timer/static/media/wait.cdc7e68f3d0e265989c5a56518a3386b.svg",
     "index.html": "/reaction-timer/index.html",
-    "main.073c9b0a.css.map": "/reaction-timer/static/css/main.073c9b0a.css.map",
-    "main.7479dd1c.js.map": "/reaction-timer/static/js/main.7479dd1c.js.map",
+    "static/media/expand.svg": "/reaction-timer/static/media/expand.7a9af2f980ad6c905a7ba7236e0393af.svg",
+    "main.121ba698.css.map": "/reaction-timer/static/css/main.121ba698.css.map",
+    "main.948ac1e2.js.map": "/reaction-timer/static/js/main.948ac1e2.js.map",
     "787.98f08bec.chunk.js.map": "/reaction-timer/static/js/787.98f08bec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7479dd1c.js"
+    "static/css/main.121ba698.css",
+    "static/js/main.948ac1e2.js"
   ]
 }
