@@ -11,3 +11,10 @@ export type SceneTypes = {
   storage?: any[];
   best?: number;
 }
+
+export type StatsTypes = {
+  title: string;
+  icon: string;
+  value?: number;
+  array?: any[];
+}

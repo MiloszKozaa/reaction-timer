@@ -1,5 +1,4 @@
-.wrapper,
-.wrapper_mobile {
+.wrapper{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -9,10 +8,6 @@
   scroll-behavior: smooth;
 }
 
-.wrapper_mobile {
-  flex-direction: column;
-  gap: 120px;
-}
 
 .main {
   display: flex;
@@ -39,7 +34,7 @@
   font-size: 50px;
 }
 
-#info {
+.info {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -47,28 +42,8 @@
   gap: 40px;
 }
 
-.title {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-}
-
-.value {
-  font-size: 50px;
-  font-weight: bold;
-}
-
-.list {
-  margin-top: 25px;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  font-weight: bold;
-}
-
 @media only screen and (max-width: 900px) {
-  #info {
+  .info {
     display: none;
   }
 }
