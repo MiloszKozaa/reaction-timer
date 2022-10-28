@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reaction-timer/static/css/main.d6bd03cd.css",
+    "main.css": "/reaction-timer/static/css/main.49d5e0fb.css",
     "main.js": "/reaction-timer/static/js/main.6f2c0663.js",
     "static/js/787.98f08bec.chunk.js": "/reaction-timer/static/js/787.98f08bec.chunk.js",
     "static/media/click.svg": "/reaction-timer/static/media/click.ab3f18810b0a720ddf5b94d2d42f3296.svg",
@@ -11,12 +11,12 @@
     "index.html": "/reaction-timer/index.html",
     "static/media/average.svg": "/reaction-timer/static/media/average.d2e0e6801cbe51a85445c617ba126eb1.svg",
     "static/media/best.svg": "/reaction-timer/static/media/best.95caec6948ad09f86c178996cb95707f.svg",
-    "main.d6bd03cd.css.map": "/reaction-timer/static/css/main.d6bd03cd.css.map",
+    "main.49d5e0fb.css.map": "/reaction-timer/static/css/main.49d5e0fb.css.map",
     "main.6f2c0663.js.map": "/reaction-timer/static/js/main.6f2c0663.js.map",
     "787.98f08bec.chunk.js.map": "/reaction-timer/static/js/787.98f08bec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6bd03cd.css",
+    "static/css/main.49d5e0fb.css",
     "static/js/main.6f2c0663.js"
   ]
 }
